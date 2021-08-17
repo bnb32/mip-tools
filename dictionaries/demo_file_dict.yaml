@@ -1,0 +1,31 @@
+base_dir: /data/GCM
+cmor_table: Lmon
+dir: /data/GCM/CMIP5/historical/Lmon/mrso/CESM1-WACCM/r2i1p1/
+endDate: 2005-12-01 00:00:00
+endDateStr: '200512'
+endMo: 12
+endYear: 2005
+ensemble: r2i1p1
+exist: 'true'
+experiment: historical
+file_pattern: mrso_Lmon_CESM1-WACCM_historical_r2i1p1_*-*.nc
+files: /data/GCM/CMIP5/historical/Lmon/mrso/CESM1-WACCM/r2i1p1/mrso_Lmon_CESM1-WACCM_historical_r2i1p1_195501-200512.nc
+flist:
+- /data/GCM/CMIP5/historical/Lmon/mrso/CESM1-WACCM/r2i1p1/mrso_Lmon_CESM1-WACCM_historical_r2i1p1_195501-200512.nc
+fullpath: /data/GCM/CMIP5/historical/Lmon/mrso/CESM1-WACCM/r2i1p1/mrso_Lmon_CESM1-WACCM_historical_r2i1p1_*-*.nc
+imported: 'true'
+index_node: '*'
+institute: '*'
+model: CESM1-WACCM
+nTime: 612
+output_type: exist
+product: '*'
+project: CMIP5
+realm: '*'
+startDate: 1955-01-01 00:00:00
+startDateStr: '195501'
+startMo: 1
+startYear: 1955
+time_frequency: '*'
+variable: mrso
+version: '*'

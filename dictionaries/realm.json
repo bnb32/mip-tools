@@ -1,0 +1,16 @@
+{
+"realm":{
+"Land":"Land",
+"aerosol":"aerosol",
+"atmos":"atmos",
+"atmosChem":"atmosChem",
+"ice":"ice",
+"land":"land",
+"landIce":"landIce",
+"ocean":"ocean",
+"ocnBgChem":"ocnBgChem",
+"ocnBgchem":"ocnBgchem",
+"sea-ice":"sea-ice",
+"seaIce":"seaIce",
+"seaIce ocean":"seaIce ocean"}
+}

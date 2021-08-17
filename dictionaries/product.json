@@ -1,0 +1,24 @@
+{
+"product":{
+"MREreanalysis":"MREreanalysis",
+"ORAreanalysis":"ORAreanalysis",
+"Regional Reanalysis":"Regional Reanalysis",
+"bias-adjusted-output":"bias-adjusted-output",
+"bioclimatic":"bioclimatic",
+"climate-projection":"climate-projection",
+"downscaled":"downscaled",
+"forcing_dataset":"forcing_dataset",
+"historical":"historical",
+"input":"input",
+"input_secondary":"input_secondary",
+"insitu":"insitu",
+"model-output":"model-output",
+"modified":"modified",
+"observations":"observations",
+"output":"output",
+"output":"output",
+"output":"output",
+"reanalysis":"reanalysis",
+"season-forecast":"season-forecast",
+"unsolicited":"unsolicited"}
+}
